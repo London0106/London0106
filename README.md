@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Haskell language**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connections:</h3>
 <p align="left">
 <a href="https://instagram.com/london.jts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="london.jts" height="30" width="40" /></a>
 </p>
