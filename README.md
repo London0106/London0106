@@ -1,12 +1,3 @@
-<h1>
-.____                      .___             
-|    |    ____   ____    __| _/____   ____  
-|    |   /  _ \ /    \  / __ |/  _ \ /    \ 
-|    |__(  <_> )   |  \/ /_/ (  <_> )   |  \
-|_______ \____/|___|  /\____ |\____/|___|  /
-        \/          \/      \/           \/ 
-</h1>
-
 <h1 align="center">Hello my name is London</h1>
 <h3 align="center">Full-stack developer, Pentester and Competitive programmer</h3>
 
