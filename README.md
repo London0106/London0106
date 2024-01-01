@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Athena Command Prompt System](londonlee.rf.gd)
 
-- 🌱 I’m currently learning **Haskell language**
+- 🌱 I’m currently learning **Haskell language and C++**
 
 <h3 align="left">Connections:</h3>
 <p align="left">
