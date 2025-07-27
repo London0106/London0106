@@ -1,5 +1,5 @@
 <h1 align="center">Hello my name is London</h1>
-<h3 align="center">Full-stack developer, Pentester and Competitive programmer</h3>
+<h3 align="center">Full-stack developer and Competitive programmer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=london0106" alt="london0106" /></a> </p>
 
