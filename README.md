@@ -1,5 +1,5 @@
 <h1 align="center">Hey I’m London</h1>
-<h3 align="center">A passionate frontend developer living in Bay Area</h3>
+<h3 align="center">A passionate full-stack developer living in Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=london0106&label=Profile%20views&color=0e75b6&style=flat" alt="london0106" /> </p>
 
