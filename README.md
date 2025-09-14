@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [HTML, CSS](https://github.com/London0106/London-Project/blob/main/README.md)
 
 - 📫 How to reach me **london.jts@gmail.com**
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/london.jts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="london.jts" height="30" width="40" /></a>
