@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Athena Command Prompt System**
 
-- 🌱 I’m currently learning **Html, Css**
+- 🌱 I’m currently learning [HTML, CSS](https://github.com/London0106/London-Project/blob/main/README.md?plain=1)
 
 - 📫 How to reach me **london.jts@gmail.com**
 
